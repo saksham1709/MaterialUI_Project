@@ -1,0 +1,40 @@
+{
+  "notes": [
+    {
+      "title": "Yoshi's birthday bash",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "reminders",
+      "id": 1
+    },
+    {
+      "title": "Complete my ninja training",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.",
+      "category": "work",
+      "id": 2
+    },
+    {
+      "title": "Order a pizza!",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "todos",
+      "id": 3
+    },
+    {
+      "title": "Pay the Milkman",
+      "details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique dolores dolorum harum labore nostrum quibusdam fuga, eius reprehenderit optio autem quos nihil quas, asperiores saepe velit placeat corporis libero ipsa omnis cupiditate architecto. Illo excepturi quasi ipsam magni deleniti dolorem dolore culpa, a praesentium, reprehenderit iusto odio adipisci dolorum exercitationem.",
+      "category": "money",
+      "id": 4
+    },
+    {
+      "title": "Pickup Some Shopping",
+      "details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique dolores dolorum harum labore nostrum quibusdam fuga, eius reprehenderit optio autem quos nihil quas, asperiores saepe velit placeat corporis libero ipsa omnis cupiditate architecto. Illo excepturi quasi ipsam magni deleniti dolorem dolore culpa, a praesentium, reprehenderit iusto odio adipisci dolorum exercitationem.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique dolores dolorum harum labore nostrum quibusdam fuga, eius reprehenderit optio autem quos nihil quas, asperiores saepe velit placeat corporis libero ipsa omnis cupiditate architecto. Illo excepturi quasi ipsam magni deleniti dolorem dolore culpa, a praesentium, reprehenderit iusto odio adipisci dolorum exercitationem.",
+      "category": "reminders",
+      "id": 5
+    },
+    {
+      "title": "Make a new Web design ",
+      "details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique dolores dolorum harum labore nostrum quibusdam fuga, eius reprehenderit optio autem quos nihil quas, asperiores saepe velit placeat corporis libero ipsa omnis cupiditate architecto. Illo excepturi quasi ipsam magni deleniti dolorem dolore culpa, a praesentium, reprehenderit iusto odio adipisci dolorum exercitationem.",
+      "category": "work",
+      "id": 6
+    }
+  ]
+}
